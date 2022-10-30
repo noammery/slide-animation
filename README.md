@@ -27,7 +27,7 @@ This Slide Animation was made to help web developers create an easy slide animat
 
 ### The animation
 
-All of the products for sale, bid the one you like!
+Choose the Images you would like to view in your slide animation!
 
 <p align="center"><img src="./readmeImg.png" width="300" /></p>
 
